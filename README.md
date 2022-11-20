@@ -1,16 +1,18 @@
 # IBM-Project-33861-1660228024
 AI based discourse for Banking Industry
 
-Team Leader:
+TEAM MEMBERS:
 
-MANDAVA MAHESH CHOWDARY
-
-Team Members:
+MANDAVA MAHESH CHOWDARY (lead)
 
 HASTI PADMAKARA VARMA
 
 KAKUMANI VENKATA SAI NEERAJ
 
 GUNDRASAM BHANUPRAKASH
+
+COLLEGE: R.M.D. Engineering College
+
+
 
 
