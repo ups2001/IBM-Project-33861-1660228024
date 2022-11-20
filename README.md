@@ -2,11 +2,15 @@
 AI based discourse for Banking Industry
 
 Team Leader:
+
 MANDAVA MAHESH CHOWDARY
 
 Team Members:
+
 HASTI PADMAKARA VARMA
+
 KAKUMANI VENKATA SAI NEERAJ
+
 GUNDRASAM BHANUPRAKASH
 
 
